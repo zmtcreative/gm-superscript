@@ -4,7 +4,7 @@
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/zmtcreative/gm-superscript.svg)](https://pkg.go.dev/github.com/zmtcreative/gm-superscript)
 [![Go version](https://img.shields.io/github/go-mod/go-version/zmtcreative/gm-superscript)](https://github.com/zmtcreative/gm-superscript)
-![License](https://img.shields.io/github/license/zmtcreative/gm-superscript)
+![GitHub License](https://img.shields.io/github/license/zmtcreative/gm-superscript)
 ![GitHub Tag](https://img.shields.io/github/v/tag/zmtcreative/gm-superscript?include_prereleases&sort=semver)
 
 A [Goldmark](https://github.com/yuin/goldmark) extension that adds superscript support using single-caret syntax (`x^2^`). This extension allows you to render superscripts in your Markdown documents as HTML `<sup>` elements.
